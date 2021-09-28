@@ -1,0 +1,14 @@
+{
+	"Id": "427C2291-5D17-4A80-B6C0-F3BBA0A6482B",
+	"Name": "cc.huix.arknights:1",
+	"Features": [],
+	"Launch": [
+		{"Url": "https://huidesktop/module/427C2291-5D17-4A80-B6C0-F3BBA0A6482B/index.html", "Name": "从明日方舟模块启动"}
+	],
+	"Setup": [
+		{"Url": "https://huidesktop/module/427C2291-5D17-4A80-B6C0-F3BBA0A6482B/setup.html", "Name": "为明日方舟模块配置"}
+	],
+	"Suggestions": [
+		{"Name": "cc.huix.hook.keyboard", "Message": "启用键盘Hook后可以设置按下特定键后小人跳跃"}
+	]
+}
